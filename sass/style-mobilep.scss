@@ -10,3 +10,11 @@
 /* BG */
 
 	@include bg($bg-width * 0.275);
+	
+/* Header */
+	
+	#header {
+		nav {
+			padding: 0 1em;
+		}
+	}
